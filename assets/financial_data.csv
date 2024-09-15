@@ -1,0 +1,35 @@
+Date,Sector,Company,Stock Price,Portfolio Value
+2023-01-15,Technology,Apple,150.25,50000
+2023-01-20,Technology,Google,2750.50,60000
+2023-02-10,Finance,JPMorgan,160.75,55000
+2023-02-18,Healthcare,Pfizer,45.30,40000
+2023-03-05,Energy,ExxonMobil,85.60,45000
+2023-03-22,Technology,Microsoft,299.00,65000
+2023-04-12,Finance,Bank of America,40.20,50000
+2023-04-25,Healthcare,Johnson & Johnson,165.80,48000
+2023-05-14,Energy,Chevron,100.50,47000
+2023-05-30,Technology,Amazon,3300.00,70000
+2023-06-08,Finance,Wells Fargo,38.75,52000
+2023-06-19,Healthcare,Merck,80.45,43000
+2023-07-03,Energy,ConocoPhillips,60.30,46000
+2023-07-21,Technology,Intel,55.10,49000
+2023-08-10,Finance,Citigroup,70.25,51000
+2023-08-28,Healthcare,Bristol-Myers Squibb,65.80,44000
+2023-09-15,Energy,Schlumberger,20.50,45000
+2023-09-30,Technology,NVIDIA,195.35,68000
+2023-10-07,Finance,Goldman Sachs,350.60,53000
+2023-10-20,Healthcare,AstraZeneca,55.70,42000
+2023-11-05,Energy,BP,25.80,45500
+2023-11-18,Technology,Adobe,500.90,69000
+2023-12-02,Finance,BlackRock,800.00,54000
+2023-12-15,Healthcare,AbbVie,120.50,43000
+2024-01-10,Technology,Facebook,340.50,70000
+2024-01-22,Finance,Morgan Stanley,105.75,56000
+2024-02-05,Healthcare,Gilead Sciences,75.30,45000
+2024-02-18,Energy,TotalEnergies,60.00,48000
+2024-03-03,Technology,Salesforce,200.20,72000
+2024-03-15,Finance,Charles Schwab,90.50,58000
+2024-04-07,Healthcare,Amgen,250.60,47000
+2024-04-20,Energy,Shell,55.80,49000
+2024-05-02,Technology,Oracle,85.40,73000
+2024-05-14,Finance,American Express,150.75,60000
